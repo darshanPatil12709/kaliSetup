@@ -1,5 +1,5 @@
 sudo apt update
-sudo apt instal ntbstatus -y
-sudo apt instal sqlmap
+sudo apt instal ntpdate -y
+sudo apt instal sqlmap -y
 
 
